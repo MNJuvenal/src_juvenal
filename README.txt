@@ -1,3 +1,8 @@
+ce dépôt est conçu pour compiler, calibrer, mesurer 
+et optimiser les performances d'un programme ici c'est kernel.c ,
+tout en fournissant des outils pour l'analyse approfondie des performances.
+Il a été profiler avec mqao dons le contenue peut etre visible en cliquant sur le  fichier index.html .
+
 Pour compiler la version originale : make OPT=NOOPT
 Pour compiler la première version optimisée : make OPT=OPT1
 Pour compiler la seconde version optimisée : make OPT=OPT2
